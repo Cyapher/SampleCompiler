@@ -1,0 +1,8 @@
+luts x = 10.22;
+Sinds 123sa = "asd";
+
+habang a TAPS b {
+  luts a;
+  luts b = 12;
+  cofs c = z + 1;
+}
